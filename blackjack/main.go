@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/blindstrom00/golang-portfolio/tree/main/deck"
+	"github.com/blindstrom00/deck"
 )
 
 func main() {
